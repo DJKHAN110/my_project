@@ -33,6 +33,7 @@ nav ul li a{
     color: white;
     font-size: 17px;
     text-transform: uppercase;
+    text-decoration: none;
 }
 .hero{
     height: 100vh;
@@ -40,5 +41,13 @@ nav ul li a{
     background-image: url(/img6.jpg);
     background-size: cover;
     background-position: center;
-
 }
+.card{
+    
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
